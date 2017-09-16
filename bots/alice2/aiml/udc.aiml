@@ -15,7 +15,7 @@
 <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
 <!--  -->
 <!-- For more information see http://www.alicebot.org -->
-<!--  -->
+<!--  TODO : UNCOMMENT, COMMENTED OUT FOR TESTING..
 <category><pattern>*</pattern>
 <template><think>
 <set var="formula"><srai>MATHFORMULA <star/></srai></set>
@@ -29,16 +29,7 @@
 </li>
 </condition></template>
 </category>
-
-<category><pattern>hellow</pattern>
-<template>안녕하세요!!</template>
-</category>
-<category><pattern>GREETINGS</pattern>
-<template>안녕하세요!!</template>
-</category>
-<category><pattern>안녕</pattern>
-<template><srai>GREETINGS</srai></template>
-</category>
+-->
 
 <category><pattern>UDC</pattern>
 <template><random>
